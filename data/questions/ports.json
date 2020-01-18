@@ -1,0 +1,1392 @@
+{
+    "Questions" : [
+        {
+            "Question" : "What ports does Echo run on?",
+            "Answers" : [
+                {
+                    "Answer" : "7",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "8",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "6",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "9",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What ports does FTP usually run on?",
+            "Answers" : [
+                {
+                    "Answer" : "20 & 21",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "22 & 23",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "18 & 19",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "24 & 25",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What service runs on port 22?",
+            "Answers" : [
+                {
+                    "Answer" : "SSH",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SMTP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "FTP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Telnet",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Which service runs on port 23?",
+            "Answers" : [
+                {
+                    "Answer" : "Telnet",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SSH",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SMTP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "FTP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What service runs on port 25?",
+            "Answers" : [
+                {
+                    "Answer" : "SMTP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SSH",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "HTTP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "NNTP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Which port does the Whois protocol utilise?",
+            "Answers" : [
+                {
+                    "Answer" : "43",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "44",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "45",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "42",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What service runs on port 49?",
+            "Answers" : [
+                {
+                    "Answer" : "TACACS",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SMTP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "FTP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "HTTP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Which TCP port is utilised by DNS?",
+            "Answers" : [
+                {
+                    "Answer" : "53",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "533",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "5333",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "5353",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "DHCP utilises which following ports?",
+            "Answers" : [
+                {
+                    "Answer" : "67 - 68",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "69 - 70",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "65 - 66",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "77 - 78",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Port 69 usually exposes the ____ service",
+            "Answers" : [
+                {
+                    "Answer" : "TFTP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "FTP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SFTP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "FTPS",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Gopher normally runs on which port?",
+            "Answers" : [
+                {
+                    "Answer" : "70",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "80",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "90",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "60",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Port 79 hosts which service?",
+            "Answers" : [
+                {
+                    "Answer" : "Finger",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SMTP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "HTTPS",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Rsync",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "HTTP webservers are found on the default port ___",
+            "Answers" : [
+                {
+                    "Answer" : "80",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "8080",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "443",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "4433",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Kerberos runs on port ___",
+            "Answers" : [
+                {
+                    "Answer" : "88",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "888",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "8888",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "8",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Which service utilises port 110?",
+            "Answers" : [
+                {
+                    "Answer" : "POP3",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SMTP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "FTP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "HTTP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Ident utilises which port?",
+            "Answers" : [
+                {
+                    "Answer" : "113",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "1133",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "114",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "1144",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "NNTP uses port ___",
+            "Answers" : [
+                {
+                    "Answer" : "119",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "120",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "1199",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "1200",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "NTP is often found on port ___",
+            "Answers" : [
+                {
+                    "Answer" : "123",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "1234",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "12345",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "12",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Which service is often found on port 135?",
+            "Answers" : [
+                {
+                    "Answer" : "Microsoft RPC",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Microsoft FTP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Microsoft SMB",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Microsoft SSH",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Which following ports does NetBIOS utilise?",
+            "Answers" : [
+                {
+                    "Answer" : "137 - 139",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "140 - 142",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "134 - 136",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "131 - 133",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "IMAP4 is found to use port ___",
+            "Answers" : [
+                {
+                    "Answer" : "143",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "144",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "142",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "145",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "SNMP utilises which of the following ports?",
+            "Answers" : [
+                {
+                    "Answer" : "161 - 162",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "159 - 160",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "163 - 164",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "165 - 166",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Port 179 is often used by which service?",
+            "Answers" : [
+                {
+                    "Answer" : "BGP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "PGP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SSH",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SFTP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "TSP is often found on which port?",
+            "Answers" : [
+                {
+                    "Answer" : "318",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "317",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "316",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "319",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "LDAP is often found to use which port?",
+            "Answers" : [
+                {
+                    "Answer" : "389",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "3389",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "38",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "3899",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Which port is utilised by HTTPS webservers?",
+            "Answers" : [
+                {
+                    "Answer" : "443",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "43",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "4433",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "4443",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Microsoft DS (SMB) utilises which port?",
+            "Answers" : [
+                {
+                    "Answer" : "445",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "4455",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "443",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "444",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Kerberos utilises which port?",
+            "Answers" : [
+                {
+                    "Answer" : "464",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "4664",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "4644",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "4464",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "SMTP over SSL utilises which port?",
+            "Answers" : [
+                {
+                    "Answer" : "465",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "466",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "464",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "4655",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Which port is used by Rexec?",
+            "Answers" : [
+                {
+                    "Answer" : "512",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "5112",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "5122",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "521",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Rlogin uses which port?",
+            "Answers" : [
+                {
+                    "Answer" : "513",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "514",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "512",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "511",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Sysog utilises which port?",
+            "Answers" : [
+                {
+                    "Answer" : "514",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "513",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "512",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "515",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "The RIP service utilises which port?",
+            "Answers" : [
+                {
+                    "Answer" : "520",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "521",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "522",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "519",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "RTSP is often found on port ___",
+            "Answers" : [
+                {
+                    "Answer" : "554",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "555",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "5544",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "5555",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Other than port 25, which service can also be found on 587?",
+            "Answers" : [
+                {
+                    "Answer" : "SMTP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SSH",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Nessus",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Rexec",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "LDAP over SSL is often found on port ___",
+            "Answers" : [
+                {
+                    "Answer" : "636",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "666",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "646",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "656",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "iSCSI is found on port ___",
+            "Answers" : [
+                {
+                    "Answer" : "860",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "861",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "859",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "862",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "The Rsync service uses which port?",
+            "Answers" : [
+                {
+                    "Answer" : "873",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "8733",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "8773",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "837",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "FTP over SSL is often found on which ports?",
+            "Answers" : [
+                {
+                    "Answer" : "989 - 990",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "987 - 988",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "991 - 992",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "993 - 994",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Which service runs on port 993?",
+            "Answers" : [
+                {
+                    "Answer" : "IMAP4 over SSL",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "POP3 over SSL",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SFTP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "OpenVPN",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Which service utilises port 995?",
+            "Answers" : [
+                {
+                    "Answer" : "POP3 over SSL",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "IMAP4 over SSL",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Microsoft RPC",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "NFS",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Which port is used by the Microsoft RPC protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "1025",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "1026",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "1024",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "1027",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "SOCKS Proxy utilises which port?",
+            "Answers" : [
+                {
+                    "Answer" : "1080",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "108",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "10800",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "1008",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "OpenVPN is often found using port ___",
+            "Answers" : [
+                {
+                    "Answer" : "1194",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "1193",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "1195",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "1196",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "The Nessus service is often found on port ___",
+            "Answers" : [
+                {
+                    "Answer" : "1241",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "1242",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "1240",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "1243",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "The Microsoft SQL database is often found to use which ports?",
+            "Answers" : [
+                {
+                    "Answer" : "1433 - 1434",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "2433 - 2434",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "1443 - 1444",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "2443 - 2444",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Which service is found to use ports 1812 - 1813",
+            "Answers" : [
+                {
+                    "Answer" : "RADIUS",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "IMAP4 over SSL",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Microsoft RPC",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Oracle XDB",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Which service utilises port 2049?",
+            "Answers" : [
+                {
+                    "Answer" : "NFS",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "IMAP4 over SSL",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Microsoft RPC",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "FTP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "The Oracle XDB service is often found on port ___",
+            "Answers" : [
+                {
+                    "Answer" : "2100",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "21000",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "210",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "21",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Which database is often found on ports 2483 - 2484?",
+            "Answers" : [
+                {
+                    "Answer" : "Oracle DB",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "MySQL",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "MongoDB",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "MariaDB",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Which database is often found on ports 3306?",
+            "Answers" : [
+                {
+                    "Answer" : "MySQL",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Oracle DB",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "MongoDB",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "MariaDB",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "RDP is often found exposed on which port?",
+            "Answers" : [
+                {
+                    "Answer" : "3389",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "445",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "139",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "23",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "mSQL utilises which port?",
+            "Answers" : [
+                {
+                    "Answer" : "4333",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "43333",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "433",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "43",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Radmin is often found on which port?",
+            "Answers" : [
+                {
+                    "Answer" : "4899",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "4898",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "4897",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "4896",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "UPnP is found on which port?",
+            "Answers" : [
+                {
+                    "Answer" : "5000",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "5001",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "500",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "501",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Which service is often found on port 5001?",
+            "Answers" : [
+                {
+                    "Answer" : "RTP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Oracle DB",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "FTP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SSH",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "The SIP service uses which port?",
+            "Answers" : [
+                {
+                    "Answer" : "5060",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "5061",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "5062",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "5063",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Which database is often found on ports 5432?",
+            "Answers" : [
+                {
+                    "Answer" : "PostgreSQL",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Oracle DB",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "MongoDB",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "MariaDB",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "The ports 6000 - 6001 are used by which service?",
+            "Answers" : [
+                {
+                    "Answer" : "X11",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Oracle DB",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "HTTPS",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "FTP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "IRC utilises which of the following ports?",
+            "Answers" : [
+                {
+                    "Answer" : "6665 - 6669",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "6670 - 6671",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "5544 - 5549",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "5900 - 5904",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Port 9800 is often used by which service?",
+            "Answers" : [
+                {
+                    "Answer" : "WebDAV",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Wordpress",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Joomla",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Ghost",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "BackupExec utilises which port?",
+            "Answers" : [
+                {
+                    "Answer" : "10000",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "1000",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "100",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "10001",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Which database is often found on port 1433?",
+            "Answers" : [
+                {
+                    "Answer" : "Microsoft SQL Server",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Oracle DB",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "MySQL",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "MariaDB",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "Which database is often found on ports 1521 & 1830?",
+            "Answers" : [
+                {
+                    "Answer" : "Oracle DB",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "MySQL",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "MSSQL",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "MongoDB",
+                    "isCorrect" : "False" 
+                }
+            ]
+        }
+        ,
+        {
+            "Question" : "Which database is often found on port 3306?",
+            "Answers" : [
+                {
+                    "Answer" : "MySQL",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Oracle DB",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "MongoDB",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "MariaDB",
+                    "isCorrect" : "False" 
+                }
+            ]
+        }
+        ,
+        {
+            "Question" : "Which database is often found on port 5432?",
+            "Answers" : [
+                {
+                    "Answer" : "PostgreSQL",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Oracle DB",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "MySQL",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "MariaDB",
+                    "isCorrect" : "False" 
+                }
+            ]
+        }
+    ]
+}

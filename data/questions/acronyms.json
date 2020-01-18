@@ -1,0 +1,3174 @@
+{
+    "Questions" : [
+        {
+            "Question" : "What is the acronym for Triple Data Encryption Standard?",
+            "Answers" : [
+                {
+                    "Answer" : "3DES",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "TDES",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "DES3",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "3xDES",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Active Directory?",
+            "Answers" : [
+                {
+                    "Answer" : "AD",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "ACD",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "ACT",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "ADIR",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Advanced Encryption Standard?",
+            "Answers" : [
+                {
+                    "Answer" : "AES",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "AdvEnc",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "AEStd",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "AE",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for African Network Information Centre?",
+            "Answers" : [
+                {
+                    "Answer" : "AfrNIC",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "ANIC",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "AfricanNet",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "AN",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Authentication Header?",
+            "Answers" : [
+                {
+                    "Answer" : "AH",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Auth",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "AHead",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "AuthHead",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Asynchronous JavaScript and XML?",
+            "Answers" : [
+                {
+                    "Answer" : "AJAX",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "AJXML",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "AJX",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "AJSX",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Asian Pacific Network Information Centre?",
+            "Answers" : [
+                {
+                    "Answer" : "APNIC",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "APN",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "AsianPNIC",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "APNC",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for American Registry for Internet Numbers?",
+            "Answers" : [
+                {
+                    "Answer" : "ARIN",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "ARFIN",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "AmeRIN",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "AR",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Address Resolution Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "ARP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "AddrRP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "AdRePr",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "AddRep",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Active Server Pages?",
+            "Answers" : [
+                {
+                    "Answer" : "ASP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "AJAX",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "ASPS",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Active",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Berkley Internet Name Domain?",
+            "Answers" : [
+                {
+                    "Answer" : "BIND",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "BND",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Berkley",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "BD",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Basic Service Set?",
+            "Answers" : [
+                {
+                    "Answer" : "BSS",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "BS",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "B",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "BSSID",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Basic Service Set Identifier?",
+            "Answers" : [
+                {
+                    "Answer" : "BSSID",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "BSS",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "BS",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "BasicID",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Category 5?",
+            "Answers" : [
+                {
+                    "Answer" : "CAT5",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "C5",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "5CAT",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "CTGY5",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Cipher Block Chaining?",
+            "Answers" : [
+                {
+                    "Answer" : "CBC",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "CC",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "CB",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "C",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Counter Cipher Mode with block chaining MAC protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "CCMP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "CCMBCMP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "BCMP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "CCMAC",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Cisco Discovery Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "CDP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "CCDP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "CD",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "CiscoDisco",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Common Gateway Interface?",
+            "Answers" : [
+                {
+                    "Answer" : "CGI",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "CG",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "CGINT",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "ComGI",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Character Generator Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "CHARGEN",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "CGP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "CG",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "CHARGENP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Common Internet File System?",
+            "Answers" : [
+                {
+                    "Answer" : "CIFS",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "CIFSys",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "CIF",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "IFS",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Carriage Return Line Feed?",
+            "Answers" : [
+                {
+                    "Answer" : "CRLF",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "CR",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "LF",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "CRL",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Cross Site Request Forgery?",
+            "Answers" : [
+                {
+                    "Answer" : "CSRF",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "XSRF",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "CSR",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "CRF",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Cross Site Scripting?",
+            "Answers" : [
+                {
+                    "Answer" : "XSS",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "CSS",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "XS",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "CS",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Common Vulnerabilities and Exposures?",
+            "Answers" : [
+                {
+                    "Answer" : "CVE",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "CVAE",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "CV",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "CE",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Data Encryption Standard?",
+            "Answers" : [
+                {
+                    "Answer" : "DES",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "DataEnc",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "DE",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "ES",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Dynamic Host Configuration Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "DHCP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "DHC",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "DCP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "DHCProto",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Domain Information Groper?",
+            "Answers" : [
+                {
+                    "Answer" : "DIG",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "DG",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "DIGGY",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "DIGGER",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Domain Name System?",
+            "Answers" : [
+                {
+                    "Answer" : "DNS",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "DN",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "DNSYS",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "DMNS",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Data Protection Act?",
+            "Answers" : [
+                {
+                    "Answer" : "DPA",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "DP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "DA",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "DPACT",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Domain Specific Entry?",
+            "Answers" : [
+                {
+                    "Answer" : "DSE",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "DS",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "DES",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "DomSpec",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Dynamic Tanking Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "DTP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "DP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "DT",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "DynTan",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Extensible Authentication Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "EAP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "EA",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "EP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "ExAP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Electronic Code Block?",
+            "Answers" : [
+                {
+                    "Answer" : "ECB",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "EC",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "EB",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "ElCo",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Enhanced Interior Gateway Routing Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "EIGRP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "EIGR",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "EIG",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "ERP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Encapsulating Security Payload?",
+            "Answers" : [
+                {
+                    "Answer" : "ESP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "ES",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "EncSec",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "EP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Enhanced Service Set Identifier?",
+            "Answers" : [
+                {
+                    "Answer" : "ESSID",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "ESSI",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "ESID",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "ES",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Flexible Single Master Operation?",
+            "Answers" : [
+                {
+                    "Answer" : "FSMO",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "FXMO",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "FISMO",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "FSM",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for File Transfer Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "FTP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "FT",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "FTPS",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SFTP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for File Transfer Protocol Secure?",
+            "Answers" : [
+                {
+                    "Answer" : "FTPS",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SFTP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "FTP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "FTS",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Hash-based Message Authentication Code?",
+            "Answers" : [
+                {
+                    "Answer" : "HMAC",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "HMC",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "HashMac",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "HBMAC",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Human Rights Act?",
+            "Answers" : [
+                {
+                    "Answer" : "HRA",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "HR",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "HA",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "HRAct",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Hot Standby Router Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "HSRP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "HSR",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "HRP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "HOTS",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Hypertext Markup Language?",
+            "Answers" : [
+                {
+                    "Answer" : "HTML",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "HML",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "TXT",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "HM",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Hypertext Transfer Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "HTTP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "HTTPS",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "HTML",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "HTP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Hypertext Transfer Protocol Secure?",
+            "Answers" : [
+                {
+                    "Answer" : "HTTPS",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "HTTP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "HTPS",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "HTML",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Internet Assigned Numbers Authority?",
+            "Answers" : [
+                {
+                    "Answer" : "IANA",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "IA",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "INTANA",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "INTAUTH",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Inter-Asterisk Exchange?",
+            "Answers" : [
+                {
+                    "Answer" : "IAX",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "IAE",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "IAEX",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "IA",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Independent Computing Architecture?",
+            "Answers" : [
+                {
+                    "Answer" : "ICA",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "INCA",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "IDCA",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "ICARCH",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Internet Control Message Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "ICMP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "ICM",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "ICP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "INTCMP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Institute of Electrical and Electronic Engineers?",
+            "Answers" : [
+                {
+                    "Answer" : "IEEE",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "IOEAEE",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "IEAEE",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "IE",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Interface ID?",
+            "Answers" : [
+                {
+                    "Answer" : "IFID",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "ID",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "IID",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "II",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Internet Group Message Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "IGMP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "IGM",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "INTGRP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "IGP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Interior Gateway Routing Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "IGRP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "IGP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "IGR",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "INTGRP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Internet Information Services?",
+            "Answers" : [
+                {
+                    "Answer" : "IIS",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "II",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "IS",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "INTINF",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Internet Key Exchange?",
+            "Answers" : [
+                {
+                    "Answer" : "IKE",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "IK",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "IKX",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "IE",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Internet Message Access Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "IMAP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "IMA",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "IAP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "IM",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for IP Multimedia Subsystem?",
+            "Answers" : [
+                {
+                    "Answer" : "IMS",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "IPMS",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "IM",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "IPMSS",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },{
+            "Question" : "What is the acronym for Internet Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "IP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "IPS",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "INTPROT",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "IPP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Internet Protocol Secure?",
+            "Answers" : [
+                {
+                    "Answer" : "IPSec",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "IPS",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "IP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SIP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Internet Security Association and Key Management Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "ISAKMP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "ISA",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "ISAAKMP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "ISAK",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Internet Server Application Programming Interface?",
+            "Answers" : [
+                {
+                    "Answer" : "ISAPI",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "IS",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "API",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "ISA",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Java 2 Platform, Enterprise Edition?",
+            "Answers" : [
+                {
+                    "Answer" : "J2EE",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "J2PEE",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "J2",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "JSP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Java Server Page?",
+            "Answers" : [
+                {
+                    "Answer" : "JSP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "J2EE",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "JS",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Java",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Latin American and Caribbean Network Information Centre?",
+            "Answers" : [
+                {
+                    "Answer" : "LACNIC",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "LACNI",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "LAC",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "LAACNIC",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Local Area Network?",
+            "Answers" : [
+                {
+                    "Answer" : "LAN",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "LocalAN",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "LA",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "LANET",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Lightweight Directory Access Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "LDAP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "LDA",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "LAP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "LD",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Lightweight Extensible Authentication Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "LEAP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "LEA",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "LEP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "LWEAP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Local Security Authority?",
+            "Answers" : [
+                {
+                    "Answer" : "LSA",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "LSAUTH",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "LS",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "LSAU",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Local Security Authority Subsystem Service?",
+            "Answers" : [
+                {
+                    "Answer" : "LSASS",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "LSA",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "LSAS",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "LSASVC",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Loose Source Route Record?",
+            "Answers" : [
+                {
+                    "Answer" : "LSRR",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "LSR",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "LS",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "LSAS",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Message Authentication and Integrity Code?",
+            "Answers" : [
+                {
+                    "Answer" : "MAIC",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "MAC",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "MAAIC",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "MAI",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Message Digest 5?",
+            "Answers" : [
+                {
+                    "Answer" : "MD5",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "MD4",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "M5",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "MSGD5",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Media Gateway Control Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "MGCP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "MGC",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "MCP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "MEDGAT",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Management Information Base?",
+            "Answers" : [
+                {
+                    "Answer" : "MIB",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "MI",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "MB",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "MNGTIB",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for NetBIOS Name Table?",
+            "Answers" : [
+                {
+                    "Answer" : "NBT",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "NetBIOS",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "NNT",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "NBNT",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Network Basic Input / Output System?",
+            "Answers" : [
+                {
+                    "Answer" : "NETBIOS",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "NBT",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "NBNT",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "NNT",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Network Information Service?",
+            "Answers" : [
+                {
+                    "Answer" : "NIS",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "NETIS",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "NI",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "NS",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Network News Transfer Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "NNTP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "NTP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "NNT",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "NT",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Network Time Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "NTP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "NNTP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "NT",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "NNT",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Object Identifier?",
+            "Answers" : [
+                {
+                    "Answer" : "OID",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "ID",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "OI",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "OBJID",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Open Shortest Path First?",
+            "Answers" : [
+                {
+                    "Answer" : "OSPF",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "OSP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "OSP1",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "OPF",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Packet Capture?",
+            "Answers" : [
+                {
+                    "Answer" : "PCAP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "PC",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "PCK",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "PKTCAP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Protected Extensible Authentication Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "PEAP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "PEA",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "PEXAP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "PE",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Pretty Good Privacy?",
+            "Answers" : [
+                {
+                    "Answer" : "PGP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "PG",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "PRGPR",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "PP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Post Office Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "POP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "PO",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "PP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "POFF",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Point to Point Tunelling Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "PPTP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "PTPTP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "PPT",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "PPP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Quote of the Day?",
+            "Answers" : [
+                {
+                    "Answer" : "QOTD",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "QD",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "QUOTE",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "QTD",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Rivest Cipher 4?",
+            "Answers" : [
+                {
+                    "Answer" : "RC4",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "RIVC4",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "R4",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "RC",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Remote Desktop Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "RDP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "RD",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "RMTDESK",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "RDPROTO",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Remote Process Execution?",
+            "Answers" : [
+                {
+                    "Answer" : "Rexec",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "RPE",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "RCE",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "REX",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Routing Information Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "RIP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "RI",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "RINF",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "RP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Reseaux IP Europeens?",
+            "Answers" : [
+                {
+                    "Answer" : "RIPE",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "RIP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "RIE",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "RE",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Regional Internet Registries?",
+            "Answers" : [
+                {
+                    "Answer" : "RIR",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "RIP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "RIPE",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "RR",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Remote Login?",
+            "Answers" : [
+                {
+                    "Answer" : "Rlogin",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "RL",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "REMLOG",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "RLOG",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Remote Procedure Call?",
+            "Answers" : [
+                {
+                    "Answer" : "RPC",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "RP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "RC",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "REMPROC",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Rivest Shamir Adleman?",
+            "Answers" : [
+                {
+                    "Answer" : "RSA",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "RS",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "RA",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "RIVSHA",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Real-Time Transport Control Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "RTCP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "RTTCP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "RCP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "RTP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Real-Time Transport Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "RTP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "RTTP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "RTCP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "RT",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Security Association?",
+            "Answers" : [
+                {
+                    "Answer" : "SA",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SASS",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SECASS",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SAN",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Security Account Manager?",
+            "Answers" : [
+                {
+                    "Answer" : "SAM",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SECACC",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SAMGR",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SA",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for System Centre Configuration Manager?",
+            "Answers" : [
+                {
+                    "Answer" : "SCCM",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SCM",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SCC",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SYSCEN",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Service Control Manager?",
+            "Answers" : [
+                {
+                    "Answer" : "SCM",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SCCM",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SCC",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SVCCM",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Session Description Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "SDP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SSDP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SD",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SESDES",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Simple(/SSH) File Transfer Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "SFTP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "FTP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "FTPS",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SSH",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Secure Hash Algorithm 1?",
+            "Answers" : [
+                {
+                    "Answer" : "SHA1",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SHA",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SHA128",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "1SHA",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Security Identifier?",
+            "Answers" : [
+                {
+                    "Answer" : "SID",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SECID",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SI",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SECIDENT",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Send ICMP Nasty Garbage?",
+            "Answers" : [
+                {
+                    "Answer" : "SING tool",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SICMPNG tool",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SNG tool",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SICMP tool",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Session Initiation Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "SIP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SI",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "IP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "RIP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Server Message Block?",
+            "Answers" : [
+                {
+                    "Answer" : "SMB",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SM",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SRVMSG",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SMBLK",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Systems Management Server?",
+            "Answers" : [
+                {
+                    "Answer" : "SMS",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SMB",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SYSMAN",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SM",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Simple Mail Transfer Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "SMTP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SNMP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SMT",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "MTP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Simple Network Management Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "SNMP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SNM",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SMTP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "NMP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Service Object Access Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "SOAP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SOA",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SAP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SOACC",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Structured Query Language?",
+            "Answers" : [
+                {
+                    "Answer" : "SQL",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SSL",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "QL",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SQ",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Secure Real-Time Transport Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "SRTP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SRT",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SRTTP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SRP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Secure Shell?",
+            "Answers" : [
+                {
+                    "Answer" : "SSH",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SH",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SECSH",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SS",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Service Set Identifier?",
+            "Answers" : [
+                {
+                    "Answer" : "SSID",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SID",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SSI",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SS",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Secure Sockets Layer?",
+            "Answers" : [
+                {
+                    "Answer" : "SSL",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SS",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SECSOC",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SSLAYER",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Security Support Provider?",
+            "Answers" : [
+                {
+                    "Answer" : "SSP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SSL",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SSR",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SSRR",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Strict Source and Route Record?",
+            "Answers" : [
+                {
+                    "Answer" : "SSRR",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SSR",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SSP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SSL",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Spanning Tree Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "STP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "SRP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "STR",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "STPR",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Software Update Services?",
+            "Answers" : [
+                {
+                    "Answer" : "SUS",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "STP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SUP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "SOFTUP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Terminal Access Controller Access Control Service Plus?",
+            "Answers" : [
+                {
+                    "Answer" : "TACACS+",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "TACACSP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "TAC",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "TACACS",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Transmission Control Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "TCP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "UDP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "TC",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "TCPR",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Trivial File Transfer Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "TFTP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "FTP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "SFTP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "TFTPS",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Temporal Key Integrity Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "TKIP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "TKI",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "TKEY",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "TK",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Time To Live?",
+            "Answers" : [
+                {
+                    "Answer" : "TTL",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "TL",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "TIME",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "TT",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Univeral Description, Discovery and Integration?",
+            "Answers" : [
+                {
+                    "Answer" : "UDDI",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "UDDAI",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "UD,DI",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "UNIDESC",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for User Datagram Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "UDP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "USDP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "UD",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "UPnP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Virtual Network Computing?",
+            "Answers" : [
+                {
+                    "Answer" : "VNC",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "VN",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "VLAN",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "VNCP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Voice Over IP?",
+            "Answers" : [
+                {
+                    "Answer" : "VOIP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "VOI",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "VIP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "VOVRIP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Virtual Router Redundancy Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "VRRP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "VRR",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "VR",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "VRRPROTO",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for VLAN Trunking Protocol?",
+            "Answers" : [
+                {
+                    "Answer" : "VTP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "VLAN",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "VLTP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "VLANTP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Wired Equivalent Privacy?",
+            "Answers" : [
+                {
+                    "Answer" : "WEP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "WPA",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "WAP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "WEQP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Windows Internet Name Service?",
+            "Answers" : [
+                {
+                    "Answer" : "WINS",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "WIN",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "WIS",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "WI",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Wi-Fi Protected Access?",
+            "Answers" : [
+                {
+                    "Answer" : "WPA",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "WFPA",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "WIP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "WAP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Wi-Fi Protected Setup?",
+            "Answers" : [
+                {
+                    "Answer" : "WPS",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "WFPS",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "WEP",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "WAP",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Web Services Description Language?",
+            "Answers" : [
+                {
+                    "Answer" : "WSDL",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "WSD",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "WSDM",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "WEBSD",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Web Services Distributed Management?",
+            "Answers" : [
+                {
+                    "Answer" : "WSDM",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "WSDL",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "WSD",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "WDM",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Windows Server Update Services?",
+            "Answers" : [
+                {
+                    "Answer" : "WSUS",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "WSU",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "WSS",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "WINS",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Extensible Markup Language?",
+            "Answers" : [
+                {
+                    "Answer" : "XML",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "EML",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "EXML",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "ML",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for Extended Terminal Access Controller Access Control Service?",
+            "Answers" : [
+                {
+                    "Answer" : "XTACACS",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "XTAC",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "TACACS",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "TACACS+",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for the DNS record A?",
+            "Answers" : [
+                {
+                    "Answer" : "Address",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Angle",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Age",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Aggression",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for the DNS record CNAME?",
+            "Answers" : [
+                {
+                    "Answer" : "Canonical Name",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Carriage Name",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Cipher Name",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Centre Name",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for the DNS record HINFO?",
+            "Answers" : [
+                {
+                    "Answer" : "Host Information",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Half Information",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Heavy Information",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Heat Information",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for the DNS record MX?",
+            "Answers" : [
+                {
+                    "Answer" : "Mail Exchange",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Measurement Exchange",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Math Exchange",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Megabyte Extension",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for the DNS record NS?",
+            "Answers" : [
+                {
+                    "Answer" : "Name Server",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Native Switch",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Nix System",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Name Service",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for the DNS record PTR?",
+            "Answers" : [
+                {
+                    "Answer" : "Pointer",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Paid To Return",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Proof To Regress",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Process To Return",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for the DNS record RP?",
+            "Answers" : [
+                {
+                    "Answer" : "Responsible Person",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Retrofit Process",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Regress Process",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Return Process",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for the DNS record SOA?",
+            "Answers" : [
+                {
+                    "Answer" : "Start of Authority",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Sons of Anarchy",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "State of Aggression",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Substitue of Agile",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "What is the acronym for the DNS record TXT?",
+            "Answers" : [
+                {
+                    "Answer" : "Text",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Transfer Exchanged Text",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Transfer Exchange Tranfer",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Text Exchange Transfer",
+                    "isCorrect" : "False" 
+                }
+            ]
+        }
+    ]
+}

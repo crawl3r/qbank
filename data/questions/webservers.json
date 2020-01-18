@@ -1,0 +1,130 @@
+{
+    "Questions" : [
+        {
+            "Question" : "A target is running IIS 5.0, which OS is likely to be installed?",
+            "Answers" : [
+                {
+                    "Answer" : "Windows 2000",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Windows XP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Windows 2003",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Windows 2008",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "A target is running IIS 5.1, which OS is likely to be installed?",
+            "Answers" : [
+                {
+                    "Answer" : "Windows XP",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Windows 2000",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Windows 2003",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Windows 2008",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "A target is running IIS 6.0, which OS is likely to be installed?",
+            "Answers" : [
+                {
+                    "Answer" : "Windows 2003",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Windows 2000",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Windows 2003",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Windows 2008",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "A target is running IIS 7.0, which OS is likely to be installed?",
+            "Answers" : [
+                {
+                    "Answer" : "Windows 2008",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Windows XP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Windows 2003",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Windows 2008 r2",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "A target is running IIS 7.5, which OS is likely to be installed?",
+            "Answers" : [
+                {
+                    "Answer" : "Windows 2008 r2",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Windows XP",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Windows 2003",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Windows 2008",
+                    "isCorrect" : "False" 
+                }
+            ]
+        },
+        {
+            "Question" : "A target is running IIS 8.0, which OS is likely to be installed?",
+            "Answers" : [
+                {
+                    "Answer" : "Windows 2012",
+                    "isCorrect" : "True" 
+                },
+                {
+                    "Answer" : "Windows 2008",
+                    "isCorrect" : "False"
+                },
+                {
+                    "Answer" : "Windows 2008 r2",
+                    "isCorrect" : "False" 
+                },
+                {
+                    "Answer" : "Windows 2003",
+                    "isCorrect" : "False" 
+                }
+            ]
+        }
+    ]
+}
